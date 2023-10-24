@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'variables.scss';
+
+body {
+  color: $main-text-color;
+  background: $white-main-bg;
+}

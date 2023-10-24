@@ -1,0 +1,7 @@
+$white-main-bg: #ffffff;
+$main-text-color: #373737;
+
+@media (prefers-color-scheme: dark) {
+  $white-main-bg: #000000;
+  $main-text-color: #fff;
+}
